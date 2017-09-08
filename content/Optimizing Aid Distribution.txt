@@ -11,3 +11,4 @@ The ideal IOT solution involves an extremely inexpensive ultra low power device 
 
 The command center will aggregate and analyze the information and create a demand map that aid agencies can then use for routing and ordering supplies. They can also provide this information to retailers to stock up supplies based on neighborhood demand as the situation starts to improve.
 
+The IOT device will be passive unless used. The backend infrastructure will only be activated in disaster conditions. This will keep costs low in normal conditions.
