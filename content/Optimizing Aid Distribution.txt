@@ -1,0 +1,13 @@
+This is a variation of the first responder idea that I think will be more useful. The idea is to use IOT to optimize aid distribution by efficiently matching relief supplies with demand. This is inspired by a recent news article that described truckloads of aid rolling into Houston but all of that was just piling up in warehouses because authorities were having a hard time determining where it needed to go.
+
+If we were to consider a scenario in which roads are impassable for most regular folks and there are wide-spread power outages, people needing supplies could request help in the following ways with existing technology, each of which have limitations:
+
+1. Telephone Helpline - Very labor intensive, expensive, error-prone and does not scale well
+2. Browsing to a web portal/Using a mobile app - Devices would eventually run out of power
+3. Social Media - Same problem as #2 and additionally recipients might need to share their addresses publicly
+4. Word of mouth - Slow and inefficient
+
+The ideal IOT solution involves an extremely inexpensive ultra low power device somewhat similar to the Amazon Dash button that can communicate in power outage conditions. The device interface will be extremely basic, providing a list of supply options and a send button. It will communicate with public infrastructure preferably over the cellular network or maybe with a neighborhood bluetooth base station. In addition to the supply info, the device will also send the location of the recipient. 
+
+The command center will aggregate and analyze the information and create a demand map that aid agencies can then use for routing and ordering supplies. They can also provide this information to retailers to stock up supplies based on neighborhood demand as the situation starts to improve.
+
