@@ -2,7 +2,7 @@ This is a variation of the first responder idea that I think will be more useful
 
 If we were to consider a scenario in which roads are impassable for most regular folks and there are wide-spread power outages, people needing supplies could request help in the following ways with existing technology, each of which have limitations:
 
-1. Telephone Helpline (separate from 911) - Very labor intensive, expensive, error-prone and does not scale well
+1. Telephone Helpline (separate from 911) - Very labor intensive, expensive, error-prone and long wait times 
 2. Browsing to a web portal/Using a mobile app - Devices would eventually run out of power
 3. Social Media - Same problem as #2 and additionally recipients might need to share their addresses publicly
 4. Word of mouth - Slow and inefficient
@@ -12,3 +12,5 @@ The ideal IOT solution involves an extremely inexpensive ultra low power device 
 The command center will aggregate and analyze the information and create a demand map that aid agencies can then use for routing and ordering supplies. They can also provide this information to retailers to stock up supplies based on neighborhood demand as the situation starts to improve.
 
 The IOT device will be passive unless used. The backend infrastructure will only be activated in disaster conditions. This will keep costs low in normal conditions. The other advantage of this approach is that the 911 emergency infrastructure will not be taxed and will be kept open for life threatening emergencies.
+
+For this hackathon, we will likely not be able to procure an off the shelf device that works as described. We can however use an Alexa supported device like the Amazon Echo (Dot?) that serves as the input source and demonstrate the demand map that the authorities will view.
